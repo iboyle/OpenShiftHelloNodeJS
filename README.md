@@ -1,1 +1,1 @@
-# OpenShiftHelloworldNodeJS
+# OpenShiftHelloNodeJS
